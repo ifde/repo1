@@ -1,0 +1,4 @@
+PyQT5~=5.15.4
+pyqt5-tools
+Pyqt5-stubs
+Pillow~=8.3.2
